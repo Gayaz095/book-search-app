@@ -1,0 +1,6 @@
+body {
+    background-image: url("./components/pic.png");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
